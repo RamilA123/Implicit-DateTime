@@ -1,0 +1,14 @@
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\bin\Debug\netcoreapp3.1\Task - Implicit - DataTime.exe
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\bin\Debug\netcoreapp3.1\Task - Implicit - DataTime.deps.json
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\bin\Debug\netcoreapp3.1\Task - Implicit - DataTime.runtimeconfig.json
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\bin\Debug\netcoreapp3.1\Task - Implicit - DataTime.runtimeconfig.dev.json
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\bin\Debug\netcoreapp3.1\Task - Implicit - DataTime.dll
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\bin\Debug\netcoreapp3.1\Task - Implicit - DataTime.pdb
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.AssemblyInfo.cs
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.dll
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.pdb
+C:\Users\FX706HCB\source\repos\Task - Implicit - DataTime\obj\Debug\netcoreapp3.1\Task - Implicit - DataTime.genruntimeconfig.cache
